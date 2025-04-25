@@ -1,0 +1,7 @@
+com\mycompany\xoproject\client\GameView.class
+com\mycompany\xoproject\client\GameViewModel.class
+com\mycompany\xoproject\server\GameSession.class
+com\mycompany\xoproject\Xoproject.class
+com\mycompany\xoproject\server\Server.class
+com\mycompany\xoproject\client\GameModel.class
+com\mycompany\xoproject\client\Client.class
